@@ -1,0 +1,14 @@
+
+
+#home {
+    height: 100vh!important;
+}
+
+
+#home .home-wrapper {
+    top: 50%!important;
+}
+
+.bg-img {
+    background-position: center!important;
+}
